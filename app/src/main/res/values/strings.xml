@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="paragraph"></string>
+    <string name="heading">Help</string>
+    <string name="subheading">Are tips or delivery charge included in my order total?</string>
+    <string name="para1">If you added a tip for your delivery partner in the Amithap Kitchen app, your order total will include your tip ammount. Tipping is never required, but delivery charge is required and you can add a trip as an extra way to thank your delivery partner for their efforts. 100% of any tip you add goes to the delivery partner.</string>
+    <string name="para2">If you choose to add a tip before the order, you have up to one hour after the order is complete to edit the amount of the tip. If you choose to tip aftre the order, you can add a tip after the order, you can add a tip for up to 30 days after the the order is complete.</string>
+    <string name="para3">Delivery charge will be calculated based on the distance. you can also tip your delivery partner in cash when they arrive!</string>
+</resources>
