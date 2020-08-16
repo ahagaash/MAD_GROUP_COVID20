@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Edit or Drop my Feedback</string>
+    <string name="heading">Give your reviews or complaints</string>
+    <string name="subheading">Full Name</string>
+    <string name="attribute">Mobile No</string>
+    <string name="attribute2">E-mail</string>
+    <string name="subheading2">Drop your reviews/complaints here</string>
+    <string name="subheading3">Rate Us</string>
+    <string name="question1">Staff Behaviour?</string>
+    <string name="question2">Our Service?</string>
+    <string name="button1">Update</string>
+    <string name="button2">DELETE</string>
+</resources>
