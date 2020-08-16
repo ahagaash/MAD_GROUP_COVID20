@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="logo_name">Amithap Kitchen</string>
+    <string name="user_name">Username</string>
+    <string name="pass">Password</string>
+    <string name="alert_keepmesigned">Keep me signed in</string>
+    <string name="Sigin_btn">Sign-In</string>
+    <string name="signup">Dont Have an Account? Sign-Up</string>
+
+</resources>
