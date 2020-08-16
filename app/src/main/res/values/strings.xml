@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="full_name">Riya</string>
+    <string name="back_to_home">Back to\nHome</string>
+    <string name="username_title">Username</string>
+    <string name="username">"@Riyaa"</string>
+    <string name="phone_title">phone</string>
+    <string name="phone">0767309605</string>
+    <string name="address_title">Address</string>
+    <string name="address">metro colombo</string>
+    <string name="email_title">Email</string>
+    <string name="email">Riya@gmail.com</string>
+</resources>
