@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="heading">Give your reviews or complaints</string>
+    <string name="subheading1">Can we know you better?</string>
+    <string name="attribute1">Full Name</string>
+    <string name="attribute2">Mobile No</string>
+    <string name="attribute3">E-mail</string>
+    <string name="subheading2">Drop your reviews/complaints here</string>
+    <string name="subheading3">Rate Us</string>
+    <string name="question1">Staff Behaviour?</string>
+    <string name="question2">Our Service?</string>
+    <string name="button">Submit</string>
+</resources>
