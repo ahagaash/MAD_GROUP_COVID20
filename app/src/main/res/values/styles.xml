@@ -1,0 +1,61 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextName">
+    <item name="android:textSize">20sp</item>
+    <item name="android:textColor">#0E0E0E</item>
+    <item name="android:fontFamily">@font/iceberg</item>
+</style>
+
+    <style name="TextName1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0A0A</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+
+    <style name="help">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/days_one</item>
+    </style>
+
+    <style name="TextName2">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+
+    <style name="TextName3">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+    <style name="TextName4">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+    <style name="TextName5">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+    <style name="TextName6">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0E0E0E</item>
+        <item name="android:fontFamily">@font/iceberg</item>
+    </style>
+
+
+
+</resources>

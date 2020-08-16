@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="heading">Help</string>
+    <string name="question1">How to place an order on Amithap Kitchen?</string>
+    <string name="question2">How to change my order?</string>
+    <string name="question3">How to cancel my order?</string>
+    <string name="question4">How do I update or delete a payment method?</string>
+    <string name="question5">Are tips or delivery charge included in my order total?</string>
+    <string name="question6">How do I review my receipt?</string>
+    <string name="question7">How do I update my account information?</string>
+</resources>
