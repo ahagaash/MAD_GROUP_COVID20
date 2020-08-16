@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="logo">Amithap Kitchen</string>
+    <string name="btn1">Order</string>
+    <string name="btn2">My Account</string>
+    <string name="btn4">Contact Us</string>
+    <string name="btn3">About</string>
+</resources>
