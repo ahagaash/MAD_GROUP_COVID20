@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="heading">Google Play</string>
+    <string name="name1">Amithap Kitchen: Local food</string>
+    <string name="name2">Amithap Technologies, Inc.</string>
+    <string name="button1">Uninstall</string>
+    <string name="button2">Update</string>
+    <string name="sen1">Rate this app</string>
+    <string name="sen2">Tell others what you think</string>
+    <string name="sen3">Write a review</string>
+    <string name="sen4">Developer contact</string>
+</resources>
