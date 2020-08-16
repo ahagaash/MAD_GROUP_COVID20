@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="heading">About</string>
+    <string name="component1">Help</string>
+    <string name="component2">Give your reviews or complaints</string>
+    <string name="component3">Rate us on Google Play</string>
+    <string name="component4">Like us on Facebook</string>
+</resources>
