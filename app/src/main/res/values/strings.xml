@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="logo_headAK">Amithap Kitchen</string>
+    <string name="onTO_des">Order Now To</string>
+    <string name="des2">Taste Your Food with Amithap Kitchen</string>
+    <string name="singupFirst">SIGN-UP</string>
+    <string name="signinFirst">SIGN-IN</string>
+</resources>
