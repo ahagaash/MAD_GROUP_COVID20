@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="PaymentConf">Payment Confirmation</string>
+    <string name="descrip">Your order is confirmed,</string>
+    <string name="des2">Thank you for choosing Amithap Kitchen</string>
+    <string name="btn_des">Back to Menu</string>
+
+
+</resources>
