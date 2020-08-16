@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="no">Order Number</string>
+    <string name="name">Delivery boy name</string>
+    <string name="id">Delivery boy ID</string>
+    <string name="vehicle">Vehicle Number</string>
+    <string name="title">Delivery Details</string>
+</resources>
