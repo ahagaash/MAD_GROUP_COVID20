@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="titlename">Order Confirmation</string>
+    <string name="location_hint">   Location</string>
+    <string name="phone_num">     Phone</string>
+    <string name="apartment_radio">Apartment</string>
+    <string name="office_radio">Office</string>
+    <string name="home_radio">Home</string>
+    <string name="checkout">Check-out</string>
+    <string name="date_order">DD/MM/YYYY</string>
+    <string name="time_order">00:00 am/pm</string>
+
+
+</resources>
