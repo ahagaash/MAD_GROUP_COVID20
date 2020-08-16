@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="attribute1">Full Name</string>
+    <string name="attribute2">Address</string>
+    <string name="attribute3">E-mail</string>
+    <string name="attribute4">Mobile</string>
+    <string name="attribute5">Password</string>
+    <string name="attribute6">Confirm Password</string>
+    <string name="checkbox">I agree to Terms and Conditions</string>
+    <string name="button">Create an Account</string>
+</resources>
