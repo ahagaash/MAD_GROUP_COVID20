@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="title">Payment Details</string>
+    <string name="holder">Cardholder</string>
+    <string name="num">Card Number</string>
+    <string name="Expiry">Expiration Date</string>
+    <string name="cvv">CVV code</string>
+    <string name="btn">Pay</string>
+</resources>
