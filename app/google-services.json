@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755439355083",
+    "firebase_url": "https://amithap-kitchen.firebaseio.com",
+    "project_id": "amithap-kitchen",
+    "storage_bucket": "amithap-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755439355083:android:5ba5ca8004af24d937874e",
+        "android_client_info": {
+          "package_name": "com.example.amithapkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755439355083-lk8n63tefcqu7pgbm244mg3pl4daek2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lrV1d1HcA4VQhREnryqvqYYcTB1w4Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755439355083-lk8n63tefcqu7pgbm244mg3pl4daek2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

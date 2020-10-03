@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Amithap Kitchen</string>
+    <string name="logo_headAK">Amithap Kitchen</string>
+    <string name="onTO_des">Order Now To</string>
+    <string name="des2">Taste Your Food with Amithap Kitchen</string>
+    <string name="singupFirst">SIGN-UP</string>
+    <string name="signinFirst">SIGN-IN</string>
+
+
+    <string name="logo_name">Amithap Kitchen</string>
+    <string name="user_name">Username</string>
+    <string name="pass">Password</string>
+    <string name="alert_keepmesigned">Keep me signed in</string>
+    <string name="Sigin_btn">Sign-In</string>
+    <string name="signup">Dont Have an Account? Sign-Up</string>
+
+
+    <string name="cart_heading">Your Cart</string>
+    <string name="menu_1">Nasi Goreng</string>
+    <string name="price_1">1 x 450/=</string>
+    <string name="menu_2">Chicken Burger</string>
+    <string name="price_2">1 x 350/=</string>
+    <string name="changesin_qty_1">1</string>
+    <string name="changesin_qty2">2</string>
+    <string name="qty_text">qty</string>
+    <string name="tot_quantity_num">3</string>
+    <string name="tot_pay">Total Payment</string>
+    <string name="tot_pay_num">1,150.00</string>
+    <string name="btn_placetheholder">PLACE THE ORDER</string>
+
+
+    <string name="titlename">Order Confirmation</string>
+    <string name="location_hint">   Location</string>
+    <string name="phone_num">     Phone</string>
+    <string name="apartment_radio">Apartment</string>
+    <string name="office_radio">Office</string>
+    <string name="home_radio">Home</string>
+    <string name="checkout">Check-out</string>
+    <string name="date_order">DD/MM/YYYY</string>
+    <string name="time_order">00:00 am/pm</string>
+    <string name="update">Update</string>
+    <string name="delete1">Delete</string>
+    <string name="your_order_details">Your order Details</string>
+
+
+    <string name="attribute1sp">Full Name</string>
+    <string name="attribute2sp">Address</string>
+    <string name="attribute3sp">E-mail</string>
+    <string name="attribute4sp">Mobile</string>
+    <string name="attribute5sp">Password</string>
+    <string name="attribute6sp">Confirm Password</string>
+    <string name="checkboxsp">I agree to Terms and Conditions</string>
+    <string name="buttonsp">Create an Account</string>
+    <string name="logoutBtn">Logout</string>
+    <string name="buttonLog">Logout</string>
+    <string name="ordconbtn">OrderConfirmation History</string>
+    <string name="payhistbtn">Payment History</string>
+    <string name="btnfeedback">Feedback History</string>
+
+
+</resources>
