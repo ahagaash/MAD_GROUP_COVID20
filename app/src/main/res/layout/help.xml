@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Help">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="130dp"
+        android:fontFamily="@font/days_one"
+        android:text="@string/headinghelp"
+        android:textColor="#090808"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.017"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="432dp"
+        android:layout_height="247dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/del2" />
+
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="56dp"
+        android:background="#f8f8ff"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:fontFamily="@font/forum"
+        android:text="@string/question1help"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.019"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="187dp"
+        android:background="#f8f8ff"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:fontFamily="@font/forum"
+        android:text="@string/question2help"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.005"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button9" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="5dp"
+        android:background="#dbe9f4"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:fontFamily="@font/forum"
+        android:text="@string/question5help"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button10" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="177dp"
+        android:background="#f8f8ff"
+        android:clickable="true"
+        android:cursorVisible="true"
+        android:fontFamily="@font/forum"
+        android:text="@string/question6help"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button12" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

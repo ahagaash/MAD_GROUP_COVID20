@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name" translatable="false">New MAD</string>
+    <string name="heading" translatable="false">Give your reviews or complaints</string>
+    <string name="subheading1" translatable="false">Can we know you better?</string>
+    <string name="attribute1" translatable="false">Full Name</string>
+    <string name="attribute2" translatable="false">Mobile No</string>
+    <string name="attribute3" translatable="false">E-mail</string>
+    <string name="subheading2" translatable="false">Drop your reviews/complaints here</string>
+    <string name="popup" translatable="false">Popup!</string>
+    <string name="edit" translatable="false">Edit Response</string>
+    <string name="button">SUBMIT</string>
+    <string name="auto">auto text</string>
+
+
+    <string name="headingfb">Give your reviews or complaints</string>
+    <string name="subheading1fb">Can we know you better?</string>
+    <string name="attribute1fb">Full Name</string>
+    <string name="attribute2fb">Mobile No</string>
+    <string name="attribute3fb">E-mail</string>
+    <string name="subheading2fb">Drop your reviews/complaints here</string>
+    <string name="subheading3fb">Rate Us</string>
+    <string name="question1fb">Staff Behaviour?</string>
+    <string name="question2fb">Our Service?</string>
+    <string name="buttonfb">Submit</string>
+
+
+    <string name="headinggoo">Google Play</string>
+    <string name="name1goo">Amithap Kitchen: Local food</string>
+    <string name="name2goo">Amithap Technologies, Inc.</string>
+    <string name="button1goo">Uninstall</string>
+    <string name="button2goo">Update</string>
+    <string name="sen1goo">Rate this app</string>
+    <string name="sen2goo">Tell others what you think</string>
+    <string name="sen3goo">Write a review</string>
+    <string name="sen4goo">Developer contact</string>
+
+
+    <string name="headinghelp">Help</string>
+    <string name="question1help">How to place an order on Amithap Kitchen?</string>
+    <string name="question2help">How to change my order?</string>
+    <string name="question3help">How to cancel my order?</string>
+    <string name="question4help">How do I update or delete a payment method?</string>
+    <string name="question5help">Are tips or delivery charge included in my order total?</string>
+    <string name="question6help">How do I review my receipt?</string>
+    <string name="question7help">How do I update my account information?</string>
+
+
+    <string name="paragraphq1"></string>
+    <string name="headingq1">Help</string>
+    <string name="subheadingq1">Are tips or delivery charge included in my order total?</string>
+    <string name="para1q1">If you added a tip for your delivery partner in the Amithap Kitchen app, your order total will include your tip ammount. Tipping is never required, but delivery charge is required and you can add a trip as an extra way to thank your delivery partner for their efforts. 100% of any tip you add goes to the delivery partner.</string>
+    <string name="para2q1">If you choose to add a tip before the order, you have up to one hour after the order is complete to edit the amount of the tip. If you choose to tip aftre the order, you can add a tip after the order, you can add a tip for up to 30 days after the the order is complete.</string>
+    <string name="para3q1">Delivery charge will be calculated based on the distance. you can also tip your delivery partner in cash when they arrive!</string>
+
+
+    <string name="headingfee">About</string>
+    <string name="component1fee">Help</string>
+    <string name="component2fee">Give your reviews or complaints</string>
+    <string name="component3fee">Rate us on Google Play</string>
+    <string name="component4fee">Like us on Facebook</string>
+
+
+    <string name="attribute1sp">Full Name</string>
+    <string name="attribute2sp">Address</string>
+    <string name="attribute3sp">E-mail</string>
+    <string name="attribute4sp">Mobile</string>
+    <string name="attribute5sp">Password</string>
+    <string name="attribute6sp">Confirm Password</string>
+    <string name="checkboxsp">I agree to Terms and Conditions</string>
+    <string name="buttonsp">Create an Account</string>
+
+
+    <string name="headinged">Give your reviews or complaints</string>
+    <string name="subheadinged">Full Name</string>
+    <string name="attributeed">Mobile No</string>
+    <string name="attribute2ed">E-mail</string>
+    <string name="subheading2ed">Drop your reviews/complaints here</string>
+    <string name="subheading3ed">Rate Us</string>
+    <string name="question1ed">Staff Behaviour?</string>
+    <string name="question2ed">Our Service?</string>
+    <string name="button1ed">Update</string>
+    <string name="button2ed">DELETE</string>
+    <string name="email">Emailz</string>
+    <string name="check">check</string>
+    <string name="nbtn_submit">submit</string>
+</resources>

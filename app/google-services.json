@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696709279365",
+    "firebase_url": "https://fir-connection-ca887.firebaseio.com",
+    "project_id": "fir-connection-ca887",
+    "storage_bucket": "fir-connection-ca887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696709279365:android:521f120a15b5d0bafa43ec",
+        "android_client_info": {
+          "package_name": "com.example.newmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696709279365-kg5ic6olf4qphim5l8foovf6v63ptmm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmhh9aDYQz-EtzCd3OnzkVUTwWdS-N_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696709279365-kg5ic6olf4qphim5l8foovf6v63ptmm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
