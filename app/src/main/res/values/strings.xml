@@ -1,0 +1,316 @@
+<resources>
+
+
+    <string name="app_name">Amithap Kitchen</string>
+
+    <string name="logo_headAK">Amithap Kitchen</string>
+
+    <string name="onTO_des">Order Now To</string>
+
+    <string name="des3">Taste Your Food with Amithap Kitchen</string>
+
+    <string name="singupFirst">SIGN-UP</string>
+
+    <string name="signinFirst">SIGN-IN</string>
+
+    <string name="logo_name">Amithap Kitchen</string>
+
+    <string name="user_name">Username</string>
+
+    <string name="pass">Password</string>
+
+    <string name="alert_keepmesigned">Keep me signed in</string>
+
+    <string name="Sigin_btn">Sign-In</string>
+
+    <string name="signup">Dont Have an Account? Sign-Up</string>
+
+    <string name="cart_heading">Your Cart</string>
+
+    <string name="menu_1">Nasi Goreng</string>
+
+    <string name="price_1">1 x 450/=</string>
+
+    <string name="menu_2">Chicken Burger</string>
+
+    <string name="price_2">1 x 350/=</string>
+
+    <string name="changesin_qty_1">1</string>
+
+    <string name="changesin_qty2">2</string>
+
+    <string name="qty_text">qty</string>
+
+    <string name="tot_quantity_num">3</string>
+
+    <string name="tot_pay">Total Payment</string>
+
+    <string name="tot_pay_num">1,150.00</string>
+
+    <string name="btn_placetheholder">PLACE THE ORDER</string>
+
+    <string name="titlename">Order Confirmation</string>
+
+    <string name="location_hint"> Location</string>
+
+    <string name="phone_num"> Phone</string>
+
+    <string name="apartment_radio">Apartment</string>
+
+    <string name="office_radio">Office</string>
+
+    <string name="home_radio">Home</string>
+
+    <string name="checkout">Check-out</string>
+
+    <string name="date_order">DD/MM/YYYY</string>
+
+    <string name="time_order">00:00 am/pm</string>
+
+    <string name="update">Update</string>
+
+    <string name="delete1">Delete</string>
+
+    <string name="your_order_details">Your order Details</string>
+
+    <string name="attribute1sp">Full Name</string>
+
+    <string name="attribute2sp">Address</string>
+
+    <string name="attribute3sp">E-mail</string>
+
+    <string name="attribute4sp">Mobile</string>
+
+    <string name="attribute5sp">Password</string>
+
+    <string name="attribute6sp">Confirm Password</string>
+
+    <string name="checkboxsp">I agree to Terms and Conditions</string>
+
+    <string name="buttonsp">Create an Account</string>
+
+    <string name="logo">Amithap Kitchen</string>
+
+    <string name="btn1">Order</string>
+
+    <string name="btn2">My Account</string>
+
+    <string name="btn4">Contact Us</string>
+
+    <string name="btn3">About</string>
+
+    <string name="img">image</string>
+
+    <string name="title">Payment Details</string>
+
+    <string name="holder">Cardholder</string>
+
+    <string name="num">Card Number</string>
+
+    <string name="Expiry">Expiration Date</string>
+
+    <string name="cvv">CVV code</string>
+
+    <string name="btn">Pay</string>
+
+    <string name="amount">Amount</string>
+
+    <string name="card_type">Card Type</string>
+
+    <string name="visa_card">Visa Card</string>
+
+    <string name="master_card">Master Card</string>
+
+    <string name="location">No 20, School Road, \n Dehiwala</string>
+
+    <string name="number">0112 255 255</string>
+
+    <string name="time">Monday-Sunday \n 8AM-10PM</string>
+
+    <string name="driver">Driver Details</string>
+
+    <string name="drName">Driver Name</string>
+
+    <string name="drID">Driver ID</string>
+
+    <string name="drContact">Contact No</string>
+
+    <string name="bikeNo">Bike Number</string>
+
+    <string name="Add">ADD</string>
+
+    <string name="driver2">Driver Details</string>
+
+    <string name="updrName">Driver Name</string>
+
+    <string name="updrID">Driver ID</string>
+
+    <string name="updrContact">Contact No</string>
+
+    <string name="upbikeNo">Bike Number</string>
+
+    <string name="show">SHOW</string>
+
+
+    <string name="delete">DELETE</string>
+
+    <string name="PaymentConf">Payment Confirmation</string>
+
+    <string name="descrip">Your order is confirmed,</string>
+
+    <string name="des2">Thank you for choosing Amithap Kitchen</string>
+
+    <string name="btn_des">Back to Menu</string>
+
+    <string name="Order">Order Details</string>
+
+    <string name="ordNo">Order No</string>
+
+    <string name="ordriverName">Driver Name</string>
+
+    <string name="ordrId">Driver ID</string>
+
+    <string name="orbike">Bike No</string>
+
+    <string name="btn_sho">SHOW Details</string>
+
+    <string name="btn_add">ADD TO ORDER</string>
+
+    <string name="headingfee">About</string>
+
+    <string name="component1fee">Help</string>
+
+    <string name="component2fee">Give your reviews or complaints</string>
+
+    <string name="component3fee">Rate us on Google Play</string>
+
+    <string name="component4fee">Like us on Facebook</string>
+
+    <string name="headingfb">Give your reviews or complaints</string>
+
+    <string name="subheading1fb">Can we know you better?</string>
+
+    <string name="attribute1fb">Full Name</string>
+
+    <string name="attribute2fb">Mobile No</string>
+
+    <string name="attribute3fb">E-mail</string>
+
+    <string name="subheading2fb">Drop your reviews/complaints here</string>
+
+    <string name="subheading3fb">Rate Us</string>
+
+    <string name="question1fb">Staff Behaviour?</string>
+
+    <string name="question2fb">Our Service?</string>
+
+    <string name="buttonfb">Submit</string>
+
+    <string name="upbtn">Update</string>
+
+    <string name="email">email</string>
+
+    <string name="delbut">Delete</string>
+
+    <string name="payDel">Delete</string>
+
+    <string name="headinghelp">Help</string>
+
+    <string name="question1help">How to place an order on Amithap Kitchen?</string>
+
+    <string name="question2help">How to change my order?</string>
+
+    <string name="question3help">How to cancel my order?</string>
+
+    <string name="question4help">How do I update or delete a payment method?</string>
+
+    <string name="question5help">Are tips or delivery charge included in my order total?</string>
+
+    <string name="question6help">How do I review my receipt?</string>
+
+    <string name="question7help">How do I update my account information?</string>
+
+    <string name="headinggoo">Google Play</string>
+
+    <string name="name1goo">Amithap Kitchen: Local food</string>
+
+    <string name="name2goo">Amithap Technologies, Inc.</string>
+
+    <string name="button1goo">Uninstall</string>
+
+    <string name="button2goo">Update</string>
+
+    <string name="sen1goo">Rate this app</string>
+
+    <string name="sen2goo">Tell others what you think</string>
+
+    <string name="sen3goo">Write a review</string>
+
+    <string name="sen4goo">Developer contact</string>
+
+    <string name="paragraphq1" />
+
+    <string name="headingq1">Help</string>
+
+    <string name="subheadingq1">Are tips or delivery charge included in my order total?</string>
+
+    <string name="para1q1">If you added a tip for your delivery partner in the Amithap Kitchen app, your order total will include your tip ammount. Tipping is never required, but delivery charge is required and you can add a trip as an extra way to thank your delivery partner for their efforts. 100% of any tip you add goes to the delivery partner.</string>
+
+    <string name="para2q1">If you choose to add a tip before the order, you have up to one hour after the order is complete to edit the amount of the tip. If you choose to tip aftre the order, you can add a tip after the order, you can add a tip for up to 30 days after the the order is complete.</string>
+
+    <string name="para3q1">Delivery charge will be calculated based on the distance. you can also tip your delivery partner in cash when they arrive!</string>
+
+    <string name="heading" translatable="false">Give your reviews or complaints</string>
+
+    <string name="subheading1" translatable="false">Can we know you better?</string>
+
+    <string name="attribute1" translatable="false">Full Name</string>
+
+    <string name="attribute2" translatable="false">Mobile No</string>
+
+    <string name="attribute3" translatable="false">E-mail</string>
+
+    <string name="subheading2" translatable="false">Drop your reviews/complaints here</string>
+
+    <string name="popup" translatable="false">Popup!</string>
+
+    <string name="edit" translatable="false">Edit Response</string>
+
+    <string name="button">SUBMIT</string>
+
+    <string name="auto">auto text</string>
+
+
+    <string name="headinged">Give your reviews or complaints</string>
+
+    <string name="subheadinged">Full Name</string>
+
+    <string name="attributeed">Mobile No</string>
+
+    <string name="attribute2ed">E-mail</string>
+
+    <string name="subheading2ed">Drop your reviews/complaints here</string>
+
+    <string name="subheading3ed">Rate Us</string>
+
+    <string name="question1ed">Staff Behaviour?</string>
+
+    <string name="question2ed">Our Service?</string>
+
+    <string name="button1ed">Update</string>
+
+    <string name="button2ed">DELETE</string>
+
+    <string name="feedemail">Email</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
